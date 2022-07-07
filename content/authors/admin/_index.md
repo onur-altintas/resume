@@ -21,7 +21,7 @@ education:
       year: Exp. 2023
     - course: MS in Operations Management
       institution: University of Rochester, NY
-      year: 2018
+      year: 2019
     - course: MSc in Industrial Engineering
       institution: Bilkent University
       year: 2016
