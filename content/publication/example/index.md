@@ -15,7 +15,7 @@ abstract: >-
   in terms of solution time 
 
   and quality based on well-known measures from the literature.
-slides: energy
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -36,8 +36,7 @@ title: Bi-objective Optimization of a Grid-connected Decentralized Energy System
 doi: "10.1002/er.3813 "
 featured: false
 tags: []
-projects:
-  - energy
+projects: []
 image:
   caption: ""
   focal_point: ""
