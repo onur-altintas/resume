@@ -18,7 +18,7 @@ education:
   courses:
     - course: PhD in Information Systems
       institution: Boston University
-      year: ""
+      year: "Exp. 2023"
     - course: MS in Operations Management
       institution: University of Rochester
       year: 2018
