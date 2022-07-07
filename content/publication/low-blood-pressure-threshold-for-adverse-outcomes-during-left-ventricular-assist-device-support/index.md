@@ -17,7 +17,7 @@ authors:
   - John D. Bisognano
   - Valentina Kutyifa
   - Abraham Seidmann
-  - Ilan Goldenber
+  - Ilan Goldenberg
 doi: https://doi.org/10.1016/j.amjcard.2021.12.045
 publication: American Journal of Cardiology
 publication_short: AJC
