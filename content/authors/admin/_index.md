@@ -17,10 +17,10 @@ organizations:
 education:
   courses:
     - course: PhD in Information Systems
-      institution: Boston University
+      institution: Boston University, MA
       year: "Exp. 2023"
     - course: MS in Operations Management
-      institution: University of Rochester
+      institution: University of Rochester, NY
       year: 2018
     - course: MSc in Industrial Engineering
       institution: Bilkent University
