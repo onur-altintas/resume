@@ -5,9 +5,6 @@ avatar_filename: altintas_onur_phd.jpg
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=W7MXaSEAAAAJ
@@ -37,8 +34,6 @@ highlight_name: true
 ---
 I am a PhD Candidate in Information Systems at Questrom School of Business, Boston University under the supervision of Abraham Seidmann. 
 
-My research interests include interpretability, artificial intelligence, human-computer interaction, behavioral decision-making.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include interpretability, artificial intelligence, human-computer interaction, and behavioral decision-making.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
