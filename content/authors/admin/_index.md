@@ -22,15 +22,18 @@ organizations:
     url: https://www.bu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information System, Business Administration
+      institution: Boston University
+      year: ""
+    - course: MS in Operations Management, Business Administration
+      institution: University of Rochester
+      year: 2018
+    - course: MSc in Industrial Engineering
+      institution: Bilkent University
+      year: 2016
+    - course: BSc in Industrial Engineering
+      institution: Bilkent University
+      year: 2014
 email: ""
 superuser: false
 highlight_name: true
