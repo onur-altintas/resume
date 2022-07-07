@@ -12,13 +12,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/altintas-onur
 organizations:
-  - name: Boston Unversity
+  - name: Boston University
     url: https://www.bu.edu/
 education:
   courses:
     - course: PhD in Information Systems
       institution: Boston University, MA
-      year: "Exp. 2023"
+      year: Exp. 2023
     - course: MS in Operations Management
       institution: University of Rochester, NY
       year: 2018
