@@ -2,7 +2,7 @@
 title: Low Blood Pressure Threshold for Adverse Outcomes During Left Ventricular
   Assist Device Support
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Himabindu Vidula
   - admin
@@ -19,6 +19,8 @@ authors:
   - Abraham Seidmann
   - Ilan Goldenber
 doi: https://doi.org/10.1016/j.amjcard.2021.12.045
+publication: American Journal of Cardiology
+publication_short: AJC
 abstract: It has been suggested that maintaining low mean arterial pressure
   (MAP) in left ventricular assist device (LVAD) recipients is associated with a
   reduced risk of stroke/death. However, the lower limit of the optimal MAP
