@@ -4,7 +4,7 @@ widget_id: About me
 headless: true
 weight: 20
 title: ""
-active: false
+active: true
 author: admin
 design:
   background:
