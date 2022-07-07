@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 title: Bi-objective optimization of a grid-connected decentralized energy system
 doi: "10.1002/er.3813 "
-featured: true
+featured: false
 tags: []
 projects:
   - energy
