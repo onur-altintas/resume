@@ -35,3 +35,9 @@ highlight_name: true
 I am a PhD Candidate in Information Systems at Questrom School of Business, Boston University under the supervision of Abraham Seidmann. 
 
 My research interests include interpretability, artificial intelligence, human-computer interaction, and behavioral decision-making.
+
+<br>
+
+<br>
+
+<br>
