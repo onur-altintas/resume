@@ -22,10 +22,10 @@ education:
     - course: MS in Operations Management
       institution: University of Rochester, NY
       year: 2019
-    - course: MSc in Industrial Engineering
+    - course: MS in Industrial Engineering
       institution: Bilkent University
       year: 2016
-    - course: BSc in Industrial Engineering
+    - course: BS in Industrial Engineering
       institution: Bilkent University
       year: 2014
 email: ""
