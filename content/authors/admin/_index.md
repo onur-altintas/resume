@@ -1,6 +1,7 @@
 ---
 title: Onur Altintas
 role: PhD Candidate
+avatar_filename: altintas_onur_phd.jpg
 bio: My research interests include interpretable artificial intelligence,
   behavioral decision-making, human-computer interaction
 interests: []
