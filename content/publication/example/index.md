@@ -26,16 +26,14 @@ authors:
   - Ayse Selin Kocaman
 author_notes: []
 publication: In *International Journal of Energy Research*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *IJER*
 url_source: ""
 url_video: ""
 title: Bi-objective optimization of a grid-connected decentralized energy system
-doi: " "
+doi: "10.1002/er.3813 "
 featured: true
 tags: []
 projects:
