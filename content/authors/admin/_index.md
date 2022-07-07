@@ -2,8 +2,7 @@
 title: Onur Altintas
 role: PhD Candidate
 avatar_filename: altintas_onur_phd.jpg
-bio: My research interests include interpretability, artificial intelligence,
-  human-computer interaction, behavioral decision making
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -33,10 +32,14 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 I am a PhD Candidate at Questrom School of Business, Boston University under the supervision of Abraham Seidmann. 
+
+My research interests include interpretability, artificial intelligence, human-computer interaction, behavioral decision making.
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
