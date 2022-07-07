@@ -32,7 +32,7 @@ url_project: ""
 publication_short: In *IJER*
 url_source: ""
 url_video: ""
-title: Bi-objective optimization of a grid-connected decentralized energy system
+title: Bi-objective Optimization of a Grid-connected Decentralized Energy System
 doi: "10.1002/er.3813 "
 featured: false
 tags: []
