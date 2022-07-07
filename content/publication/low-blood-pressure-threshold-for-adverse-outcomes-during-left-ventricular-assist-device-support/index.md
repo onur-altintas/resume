@@ -19,8 +19,8 @@ authors:
   - Abraham Seidmann
   - Ilan Goldenberg
 doi: https://doi.org/10.1016/j.amjcard.2021.12.045
-publication: American Journal of Cardiology
-publication_short: AJC
+publication: In *American Journal of Cardiology*
+publication_short: In *AJC*
 abstract: It has been suggested that maintaining low mean arterial pressure
   (MAP) in left ventricular assist device (LVAD) recipients is associated with a
   reduced risk of stroke/death. However, the lower limit of the optimal MAP
