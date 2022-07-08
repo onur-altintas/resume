@@ -13,5 +13,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-07-08T02:53:16.145Z
+date: 2022-01-02T03:53:16.145Z
 ---
